@@ -1,0 +1,57 @@
+{
+  "build": "py312h77c03ed_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "fmt >=9.1.0,<10.0a0",
+    "libmamba 1.5.8 h99b1521_3",
+    "openssl >=3.0.15,<4.0a0",
+    "pybind11-abi 5",
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0",
+    "yaml-cpp >=0.8.0,<0.9.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libmambapy-1.5.8-py312h77c03ed_3",
+  "files": [
+    "Lib/site-packages/libmambapy-1.5.8.dist-info/INSTALLER",
+    "Lib/site-packages/libmambapy-1.5.8.dist-info/LICENSE",
+    "Lib/site-packages/libmambapy-1.5.8.dist-info/METADATA",
+    "Lib/site-packages/libmambapy-1.5.8.dist-info/RECORD",
+    "Lib/site-packages/libmambapy-1.5.8.dist-info/REQUESTED",
+    "Lib/site-packages/libmambapy-1.5.8.dist-info/WHEEL",
+    "Lib/site-packages/libmambapy-1.5.8.dist-info/direct_url.json",
+    "Lib/site-packages/libmambapy-1.5.8.dist-info/top_level.txt",
+    "Lib/site-packages/libmambapy/__init__.py",
+    "Lib/site-packages/libmambapy/__init__.pyi",
+    "Lib/site-packages/libmambapy/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/libmambapy/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/libmambapy/_version.py",
+    "Lib/site-packages/libmambapy/bindings.cp310-win_amd64.pyd",
+    "Lib/site-packages/libmambapy/bindings.cp312-win_amd64.pyd",
+    "Lib/site-packages/libmambapy/bindings.cp38-win_amd64.pyd",
+    "Lib/site-packages/libmambapy/bindings.cp39-win_amd64.pyd",
+    ".nonadmin"
+  ],
+  "fn": "libmambapy-1.5.8-py312h77c03ed_3.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libmambapy-1.5.8-py312h77c03ed_3",
+    "type": 1
+  },
+  "md5": "614a90d5dd2e999c930727ae27de5d02",
+  "name": "libmambapy",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libmambapy-1.5.8-py312h77c03ed_3.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::libmambapy==1.5.8=py312h77c03ed_3[md5=614a90d5dd2e999c930727ae27de5d02]",
+  "sha256": "a3f1696112fd67466c563a9802c19173958e91f0c8f5504d7006b1f98a5c9de9",
+  "size": 606375,
+  "subdir": "win-64",
+  "timestamp": 1725564359000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libmambapy-1.5.8-py312h77c03ed_3.conda",
+  "version": "1.5.8"
+}

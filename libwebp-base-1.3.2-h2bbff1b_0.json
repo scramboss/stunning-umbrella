@@ -1,0 +1,118 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "libwebp 1.3.2"
+  ],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libwebp-base-1.3.2-h2bbff1b_0",
+  "files": [
+    "Library/WebP/cmake/WebPConfig.cmake",
+    "Library/WebP/cmake/WebPConfigVersion.cmake",
+    "Library/WebP/cmake/WebPTargets-release.cmake",
+    "Library/WebP/cmake/WebPTargets.cmake",
+    "Library/bin/libsharpyuv.dll",
+    "Library/bin/libwebp.dll",
+    "Library/bin/libwebpdecoder.dll",
+    "Library/bin/libwebpdemux.dll",
+    "Library/bin/libwebpmux.dll",
+    "Library/include/webp/decode.h",
+    "Library/include/webp/demux.h",
+    "Library/include/webp/encode.h",
+    "Library/include/webp/mux.h",
+    "Library/include/webp/mux_types.h",
+    "Library/include/webp/sharpyuv/sharpyuv.h",
+    "Library/include/webp/sharpyuv/sharpyuv_csp.h",
+    "Library/include/webp/types.h",
+    "Library/lib/libsharpyuv.lib",
+    "Library/lib/libwebp.lib",
+    "Library/lib/libwebpdecoder.lib",
+    "Library/lib/libwebpdemux.lib",
+    "Library/lib/libwebpmux.lib",
+    "Library/lib/pkgconfig/libsharpyuv.pc",
+    "Library/lib/pkgconfig/libwebp.pc",
+    "Library/lib/pkgconfig/libwebpdecoder.pc",
+    "Library/lib/pkgconfig/libwebpdemux.pc",
+    "Library/lib/pkgconfig/libwebpmux.pc",
+    ".nonadmin"
+  ],
+  "fn": "libwebp-base-1.3.2-h2bbff1b_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libwebp-base-1.3.2-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "6d83c1a76175955dc1033a643a17e65c",
+  "name": "libwebp-base",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\libwebp-base-1.3.2-h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/WebP/cmake/WebPTargets.cmake",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
+        "sha256": "76d632e224b0a92cf2aac98c81d44cf0c12cfdf52b28f228887df7fb847fc1e6",
+        "sha256_in_prefix": "5563d5693c55522052b37c767ed2035753290b0bbb3a31e0df55838be03b0b7c",
+        "size_in_bytes": 5122
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libsharpyuv.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
+        "sha256": "f12eea181490d9c49d929b7f189e3719e49784b7e2b7370fa49b7a5edafbb4df",
+        "sha256_in_prefix": "f4c53c1cdda581425fc98d6ee68938b84fc1ee98693262c64b1a5a00ba72d16c",
+        "size_in_bytes": 328
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libwebp.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
+        "sha256": "4c070fee0ecf232fa2a434cd43ab29b1e459f94a93d65ac1b35ec0225aae1df5",
+        "sha256_in_prefix": "898c67e5f5677f3ac7e64c5546321dc120e0c2b95bb854047424b128d86d5b1e",
+        "size_in_bytes": 343
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libwebpdecoder.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
+        "sha256": "bd3d171390ff0fb463c4a12879f52265e2c4a35b5a3661b35a76af540ee5e291",
+        "sha256_in_prefix": "21b8ddc8cbdbcf95f3fd1ef630468a0a6278e22f649fb33cd9879a84337a85de",
+        "size_in_bytes": 340
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libwebpdemux.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
+        "sha256": "dee68bdb22451876edb60ef8642bb0be15a913aca28abb33744045ac1d60fe4b",
+        "sha256_in_prefix": "912a9afc63a4373efef2dbc43922435c2c10217ef0264fcb9e1ab267a1e5a2a4",
+        "size_in_bytes": 358
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libwebpmux.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_05b5nut1vk/croot/libwebp-base_1694776939123/_h_env",
+        "sha256": "b4e2733aa8dab27a1af68d582339324e62f1145036d0a810019d7a05cc0f52fd",
+        "sha256_in_prefix": "45d5a0ea3da292137ae21875986de0aa1fe0fe8700240180352ee433ffde61cd",
+        "size_in_bytes": 375
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::libwebp-base==1.3.2=h2bbff1b_0[md5=6d83c1a76175955dc1033a643a17e65c]",
+  "sha256": "77fc4d6399a2d0bcabbba4abbc8e9482e59dc33f71b50f7f080db1e1b8ac897e",
+  "size": 313640,
+  "subdir": "win-64",
+  "timestamp": 1694777084000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libwebp-base-1.3.2-h2bbff1b_0.conda",
+  "version": "1.3.2"
+}
